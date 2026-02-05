@@ -12,3 +12,6 @@ git commit -m "name of problem"
 git push
 
 input into terminal 
+
+
+dmoj profile: https://dmoj.ca/users/?page=261#!bruh_moment 
