@@ -1,6 +1,9 @@
 # coding-problem-solutions
 just a library of my own coding solutions to problems
 
+LeetCode: https://leetcode.com/u/jaden_soliven/
+dmoj profile: https://dmoj.ca/users/?page=261#!bruh_moment 
+
 (CODESPACE TO GIT REPO EXAMPLE)
 Double check: repo folder=> 
 git status
@@ -14,7 +17,7 @@ git push
 input into terminal 
 
 
-dmoj profile: https://dmoj.ca/users/?page=261#!bruh_moment 
+
 
 GIT PUSH Error:
 error: failed to push some refs to 'https://github.com/mojayng/coding-problem-solutions'
