@@ -5,7 +5,7 @@ just a library of my own coding solutions to problems
 Double check: repo folder=> 
 git status
 
-it add "filename.py"
+git add "filename.py"
 
 git commit -m "name of problem"
 
